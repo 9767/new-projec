@@ -7,4 +7,5 @@ scanf("%d",&a);
 scanf("%d",&b);
 s=a-b;
 printf("the difference is...");
+printf("hello");
 }
